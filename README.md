@@ -6,6 +6,8 @@ Otherwise, you may deploy the app locally.
 
 Run `pip install -r requirements.txt` to install the dependencies.
 
+Then, run `streamlit run main.py` to render the web page.
+
 ## Instructions
 1. Enter your OpenAI API key to connect to their APIs.
 2. Enter your video topic and video duration.
